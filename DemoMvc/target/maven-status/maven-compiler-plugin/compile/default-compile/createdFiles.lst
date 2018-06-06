@@ -1,0 +1,10 @@
+com\DemoMvc\Controller\HomeController.class
+com\DemoMvc\Model\Dao\StudentInterface.class
+com\DemoMvc\Services\StudentServiceImplementation.class
+com\DemoMvc\Configuration\AppConfig.class
+com\DemoMvc\Configuration\AppInitializer.class
+com\DemoMvc\Controller\StudentController.class
+com\DemoMvc\Model\Student.class
+com\DemoMvc\Configuration\DbConfiguration.class
+com\DemoMvc\Model\Dao\StudentImplementation.class
+com\DemoMvc\Services\StudentServiceInterface.class
